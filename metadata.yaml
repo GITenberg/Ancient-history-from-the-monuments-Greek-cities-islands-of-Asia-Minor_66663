@@ -1,11 +1,16 @@
 _repo: Ancient-history-from-the-monuments-Greek-cities-islands-of-Asia-Minor_66663
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66663-h/images/cover.jpg
 creator:
   author:
     agent_name: Vaux, William Sandys Wright
     gutenberg_agent_id: '53906'
     url: http://www.gutenberg.org/2009/agents/53906
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66663#Ancient-history-from-the-monuments-Greek-cities-islands-of-Asia-Minor
 gutenberg_issued: '2021-11-04'
 identifiers:
   gutenberg: '66663'
